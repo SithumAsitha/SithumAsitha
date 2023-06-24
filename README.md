@@ -81,6 +81,6 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithumasitha&show_icons=true&locale=en&layout=compact" alt="sithumasitha" /></p>
-<br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sithumasitha&" alt="sithumasitha" /></p>
 <!--END_SECTION:waka-->
