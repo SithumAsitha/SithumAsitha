@@ -67,7 +67,7 @@
 🔴 <strong>Workflow Platforms</strong>
 
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-<br><br>
+<br>
 
 <!--START_SECTION:waka-->
 
