@@ -21,8 +21,9 @@
 <a href="https://instagram.com/_a.s.i.t.h.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.s.i.t.h.a_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/university mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="university mate" height="30" width="40" /></a>
 </p>
-## Skills and Experience
-🔴 <strong>Programming Languages</strong>
+<br>
+<h3 align="left">Skills & Experiences</h3><br>
+🔴 <strong>Programming Languages</strong><br><br>
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -75,8 +76,5 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithumasitha&show_icons=true&locale=en&layout=compact" alt="sithumasitha" /></p>
-<br><br><br><br><br><br><br>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithumasitha&" alt="sithumasitha" /></p>
+<br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sithumasitha&" alt="sithumasitha" /></p>
