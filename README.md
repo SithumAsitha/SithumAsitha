@@ -78,3 +78,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithumasitha&show_icons=true&locale=en&layout=compact" alt="sithumasitha" /></p>
 <br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sithumasitha&" alt="sithumasitha" /></p>
+<!--END_SECTION:waka-->
