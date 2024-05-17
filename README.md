@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sithum Asitha</h1>
 <h3 align="center">A passionate Data Science undergraduate from SriLanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumasitha&label=Profile%20views&color=0e75b6&style=flat" alt="sithumasitha" /> </p>
 
