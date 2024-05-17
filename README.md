@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sithum Asitha</h1>
-<h3 align="center">A passionate Data Science undergraduate from SriLanka</h3>
+<h3 align="center">A passionate Data Science Enthusiast from SriLanka</h3>
 
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
